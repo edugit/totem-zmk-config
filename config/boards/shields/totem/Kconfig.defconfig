@@ -17,10 +17,3 @@ config ZMK_SPLIT
     default y
 
 endif
-
-if SHIELD_TOTEM_RIGHT_DIAG
-
-config ZMK_KEYBOARD_NAME
-    default "TOTEM-R-DIAG"
-
-endif

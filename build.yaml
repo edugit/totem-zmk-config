@@ -7,7 +7,3 @@ include:
 
   - board: xiao_ble//zmk
     shield: totem_right
-
-  # Diagn?stico temporal: solo para la placa f?sica derecha.
-  - board: xiao_ble//zmk
-    shield: totem_right_diag
